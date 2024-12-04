@@ -1,0 +1,38 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# IDE files (optional, depending on your editor)
+.vscode/
+.idea/
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+
+# Output files (e.g., cleaned CSV)
+outputs/
+
+# Dependency directory for the Python package manager
+*.egg-info/
+.eggs/
+
+# Test coverage
+.coverage
+.coverage.*
+nosetests.xml
+test-*.xml
